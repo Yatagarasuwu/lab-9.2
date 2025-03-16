@@ -19,3 +19,8 @@ HEAVY use of w3schools JavaScript: https://www.w3schools.com/js/default.asp. For
 
   Finally, for the sake of full honesty:
 - Usage of Integrated CoPilot to figure out errors within code, such as why I couldn't use Math.abs for my EvilCircle's checkBounds(). This was used sparcely, and honestly I should've just googled a bit more as it wasn't too helpful.
+
+
+## How to Run
+
+Make sure you have VSCode's live server preview extension. It updates in real time and is what is used in testing. Afterwards, open it in any way (i use ctrl+shift+p and search "Start live preview") and the project will run!
