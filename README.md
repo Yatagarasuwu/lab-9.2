@@ -2,23 +2,20 @@
 
 ## Overview
 
-TODO: Write a project description
+The main goal of this lab was to create an entity/evil being called the "EvilCircle" that would take over the provided JS project showing colorful circles, making it a "game" of sorts where the user would try to move into all the colorful circles shown. There is now a counter for how many circles are on the screen, too.
 
 ## Sources and Credits
+HEAVY use of w3schools JavaScript: https://www.w3schools.com/js/default.asp. For example below I checked JS Constructors (for the beginning), syntax, ArrowFunction (was thinking movement, still checked it so its here), JS Arrays, (for the Ball, thought I needed it more) and this Keyword.
+- https://www.w3schools.com/js/js_object_constructors.asp
+- https://www.w3schools.com/js/js_syntax.asp
+- https://www.w3schools.com/js/js_arrays.asp
+- https://www.w3schools.com/js/js_arrow_function.asp
+- https://www.w3schools.com/js/js_this.asp
 
-TODO: You must credit the sources and authors of any code, libraries, or other
-assets you use in your project. If you leave this section blank, your project
-will be considered in violation of the Academic Honesty policy unless you truly
-created everything from scratch with no outside help. If you need to use a
-source that you cannot credit (e.g. a classmate's work), you must get explicit
-permission from your instructor.
+- Obviously, I used the provided resources you gave us both in the lab and the README. The lab's code is integrated, and I used:
+- https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Object_basics
+- https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Advanced_JavaScript_objects/Classes_in_JavaScript
+- https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Client-side_APIs/Drawing_graphics
 
-A simple bulleted list below is sufficient. For example:
-
-- Bootstrap: https://getbootstrap.com/
-- jQuery: https://jquery.com/
-- Background image: https://unsplash.com/photos/...
-- Sound effects: https://freesound.org/people/...
-- Icons: https://fontawesome.com/
-- Fonts: https://fonts.google.com/
-- etc.
+  Finally:
+- Usage of Integrated CoPilot to figure out errors within code, such as why I couldn't use Math.abs for my EvilCircle's checkBounds().
