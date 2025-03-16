@@ -17,5 +17,5 @@ HEAVY use of w3schools JavaScript: https://www.w3schools.com/js/default.asp. For
 - https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Advanced_JavaScript_objects/Classes_in_JavaScript
 - https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Client-side_APIs/Drawing_graphics
 
-  Finally:
-- Usage of Integrated CoPilot to figure out errors within code, such as why I couldn't use Math.abs for my EvilCircle's checkBounds().
+  Finally, for the sake of full honesty:
+- Usage of Integrated CoPilot to figure out errors within code, such as why I couldn't use Math.abs for my EvilCircle's checkBounds(). This was used sparcely, and honestly I should've just googled a bit more as it wasn't too helpful.
